@@ -7,7 +7,8 @@ Supervised by: Dr. D.H.S. Maithripala
 
 To develop an Advanced Driver-Assistance System (ADAS) comprising of: 
 * Highway Collision Avoidance 
-* Lane keeping Assistance 
+* Lane keeping Assistance
+  
 features, that utilizes vision-based intelligent semantic object detection techniques, coupled with an adaptive 
 dynamic-responsive real-time vehicle controller model with purpose-built custom algorithms. The proposed 
 system must process camera video as input; and actuate vehicle steering angle, brakes, and accelerator as 
